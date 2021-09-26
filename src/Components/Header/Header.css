@@ -1,0 +1,14 @@
+.header-section{
+    background-color: black;
+    color: white;
+    padding: 20px 400px;
+    border: 2px solid aqua;
+    border-radius: 20px;
+    text-align: center;
+  
+}
+ .total-cost{
+    font-size: 40px;
+    color: rgb(240, 42, 8);
+    font-weight: bold;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Shoto Todoroki",
+    "age": 16,
+    "nationality": "Korean",
+    "power": "Half Cold, Half Hot",
+    "level": 400,
+    "img": "https://i.pinimg.com/originals/2a/3a/fe/2a3afea3b703dba502ae62b54e069f12.jpg"
+  },
+  {
+    "name": "Katsuki Bakugo/Kacchan",
+    "age": 16,
+    "nationality": "Japanese",
+    "power": "Explosion",
+    "level": 450,
+    "img": "https://qph.fs.quoracdn.net/main-qimg-64a32df103bc8fb7b2fc495553a5fc0a"
+  },
+  {
+    "name": "Fumikage Tokoyami/Tsukuyomi",
+    "age": 17,
+    "nationality": "Japanese",
+    "power": "Dark Shadow",
+    "level": 380,
+    "img": "https://i.pinimg.com/originals/6c/2e/65/6c2e65d84306892521de7bd3fd27c778.jpg"
+  },
+  {
+    "name": "Ochako Uraraka/Uravity",
+    "age": 15,
+    "nationality": "Japanese",
+    "power": " – Zero Gravity",
+    "level": 350,
+    "img": "https://i.pinimg.com/736x/de/0d/f5/de0df52a935ae90af16c9c894ecd51a0.jpg"
+  },
+  {
+    "name": "Izuku Midoriya/Deku",
+    "age": 15,
+    "nationality": "Korean",
+    "power": "One For Allg",
+    "level": 500,
+    "img": "https://www.kindpng.com/picc/m/134-1346492_my-hero-academia-midoriya-hd-png-download.png"
+  },
+  {
+    "name": "Eijiro Kirishima/Red Riot",
+    "age": 16,
+    "nationality": "Japanese",
+    "power": "Hardening",
+    "level": 350,
+    "img": "https://images.squarespace-cdn.com/content/v1/585869cfebbd1a60e7d7129a/1593370898902-U53R564CBJH7B5BA949G/My-Hero-Academia-Season-4-Episode-72-Figure-02.jpg?format=2500w"
+  },
+  {
+    "name": "Momo Yaoyorozu/Creati",
+    "age": 14,
+    "nationality": "Korean",
+    "power": "Creation",
+    "level": 300,
+    "img": "https://i.pinimg.com/originals/e2/cc/1c/e2cc1ceac93e74c393c1b594a8e5641b.png"
+  },
+  {
+    "name": "Kyoka Jiro",
+    "age": 16,
+    "nationality": "Thai",
+    "power": " – Earphone Jack",
+    "level": 200,
+    "img": "https://pbs.twimg.com/profile_images/1343025303636086785/kFQlADSH_400x400.jpg"
+  },
+  {
+    "name": "Tsuyu Asui/Froppy",
+    "age": 14,
+    "nationality": "Japanese",
+    "power": "Frog Form",
+    "level": 350,
+    "img": "https://i1.sndcdn.com/avatars-000879226135-nhugtm-t500x500.jpg"
+  }
+]
